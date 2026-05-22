@@ -4,7 +4,11 @@
 
 I have developed a 3D video game prototype in which you play as a rogue character who has just opened a café and needs plants to decorate it. The aim is to explore the forest behind the café to find various types of foliage and fight off enemies that stand in your way.
 
-[![Watch Demo](https://img.youtube.com/vi/utbrHCXCAdA/0.jpg)](https://youtu.be/utbrHCXCAdA)
+<p align="center">
+  <a href="https://youtu.be/utbrHCXCAdA">
+    <img src="https://img.youtube.com/vi/utbrHCXCAdA/hqdefault.jpg" width="750">
+  </a>
+</p>
 
 *The video above showcases my implementation*
 
